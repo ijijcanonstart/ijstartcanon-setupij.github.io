@@ -1,6 +1,6 @@
 #  ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 ij.start.canon helps to set up a canon printer. It’s the online support platform to download and install canon printer drivers, firmware, and software. To get started with [ij.start.canon](https://ijstartcanon-setupij.github.io/), you can select wireless, wired, or USB connection methods. Canon printer app is available for cableless ij start canon setup for smartphones. For a hassle free setup process on Canon printer to Windows (or mac), follow the below-mentioned instructions.
 
